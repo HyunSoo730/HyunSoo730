@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=HyunSoo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=HyunSoo&fontSize=90&color=E9967A)
 ## 🏃Github Stats
 ![HyunSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunSoo&show_icons=true&theme=great-gatsby&count_private=true)
 ## 👨‍💻Tech Stack
