@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=HyunSoo&fontColor=7FFFD4&fontSize=55)
 ## 🏃Github Stats
 ![HyunSoo730's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunSoo730&show_icons=true&theme=great-gatsby&count_private=true)
-
+## 🧛‍♂️ Solved.ac Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=HyunSoo730)](https://solved.ac/HyunSoo730)
 ## 👨‍💻Tech Stack
 <div style="text-align: center">
 
