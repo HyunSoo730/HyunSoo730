@@ -1,12 +1,21 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=HyunSoo&fontColor=7FFFD4&fontSize=55)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=✈🚀&fontAlign=70)
   ####  :wave: Welcome my github profile ! 
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0E68C&lines=Never+give+up🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 </div>
 
 ## 🏃Github Stats
-![HyunSoo730's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunSoo730&show_icons=true&theme=great-gatsby&count_private=true)
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyunSoo730&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunSoo730&exclude_repo=HyunSoo730.github.io&layout=compact&theme=tokyonight" />
+</a>
+
 ## 🧛‍♂️ Solved.ac Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=HyunSoo730)](https://solved.ac/HyunSoo730)
 ## 👨‍💻Tech Stack
@@ -27,8 +36,8 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=2F2625) 
   ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white) 
+  ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
   <br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=Spring&logoColor=white)
