@@ -26,7 +26,7 @@
   <br>
 <div align="center">  
   
-  ####  :clipboard: Once I've Used  💦
+  ####  :clipboard: Once I've Used   💦
 
   <br>
   
